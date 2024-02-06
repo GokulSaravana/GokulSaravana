@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @GokulSaravana
-- Python 3🐍| Core Java☕| SpringBoot🍃 | AngularJS 🅰️ | ReactJS⚛️ | Postman API📬 | MySQL🗄️ | Problem Solving🧩
 - Reach me @ gokulsaravana1281@gmail.com 📧 | 8778907508 📞
 
 <!---
