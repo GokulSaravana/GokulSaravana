@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @GokulSaravana
-- 👀 I’m interested in back-end coding with python,java
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on mini projects
-- 📫 How to reach me gokulsaravana1281@gmail.com
+- Python 3🐍| Core Java☕| SpringBoot🍃 | AngularJS 🅰️ | ReactJS⚛️ | Postman API📬 | MySQL🗄️ | Problem Solving🧩
+- Reach me @ gokulsaravana1281@gmail.com 📧 | 8778907508 📞
 
 <!---
 GokulSaravana/GokulSaravana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
